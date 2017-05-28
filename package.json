@@ -1,0 +1,15 @@
+{
+  "name": "magic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyank Gahtori",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.7.7",
+    "ssh2": "^0.5.4"
+  }
+}
